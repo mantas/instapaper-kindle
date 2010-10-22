@@ -1,4 +1,4 @@
 Instapaper -> Kindle importer via email
 =============
 
-See script for instruction
+See script for instructions
